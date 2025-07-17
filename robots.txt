@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /*.png$
+Allow: /*.ico$
+Allow: /*.svg$
+Allow: /*.webmanifest$
+
+Disallow: /index.html
+
+# Opcional, se quiser apontar sitemap para o domínio principal
+Sitemap: https://www.trambicasttv.com.br/sitemap.xml
