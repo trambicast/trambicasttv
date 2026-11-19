@@ -7,4 +7,4 @@ Allow: /*.webmanifest$
 Disallow: /index.html
 
 # Opcional, se quiser apontar sitemap para o domínio principal
-Sitemap: https://www.trambicasttv.com.br/sitemap.xml
+Sitemap: https://www.trambicast.com.br/sitemap.xml
